@@ -74,26 +74,3 @@ We welcome contributions to Jarvis Version 3! Please follow these steps:
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or issues, please open an issue on the repository or contact the maintainer.
-
-
-- **Instagram:** [Anubhav-Chaturvedi-Insta](https://www.instagram.com/_anubhav__chaturvedi_/)
-- **Facebook:** [IndianYoutuberAndSoftwareDevloper](https://www.facebook.com/IndianYoutuberAndSoftwareDevloper)
-- **Linktree:** [Allorizen](https://linktr.ee/allorizen)
-- **Portfolio:** [Anubhav Chaturvedi](https://anubhavchaturvedipro-portfolio.netlify.app)
-- **LinkedIn:** [Anubhav Chaturvedi](https://linkedin.com/in/anubhav-chaturvedi-)
-- **Twitter:** [Anubhav Chaturvedi](https://twitter.com/AnubhavChatu)
-- **GitHub:** [AnubhavChaturvedi-GitHub](https://github.com/AnubhavChaturvedi-GitHub)
-- **YouTube (NetHyToons):** [NetHyToons](https://www.youtube.com/@nethytoons)
-- **YouTube (Anubhav-Chaturvedi-YT):** [Anubhav-Chaturvedi-YT](https://www.youtube.com/@Anubhav_Chaturvedi)
-- **Geeks for Geeks:** [Chaturvedianubhav520](https://auth.geeksforgeeks.org/user/chaturvedianubhav520)
-- **LeetCode:** [Ac520](https://leetcode.com/Ac520)
-
-
