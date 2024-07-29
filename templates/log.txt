@@ -1,0 +1,131 @@
+2024-06-05 21:25:10,716 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\chatu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-05 21:25:10,717 - INFO - Using writeable comtypes cache directory: 'C:\Users\chatu\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+User: open youtube website
+User: 
+User: operation successful task complete with successful outcomes
+User: 
+User: how are you feeling today jarvis
+Jarvis: I'm doing quite well today, thank you for asking Sir. How are you feeling?
+User: i am doing quite well today thank you for asking sir
+User: 
+User: 2013
+User: 
+User: what is the second one you what you told jarvis
+Jarvis: The second suggestion was "The Imitation Game", a historical drama that tells the story of British mathematician Alan Turing and his efforts to crack the Enigma code during World War II. It's a thrilling and thought-provoking film that explores the power of intellect and the human spirit.
+User: the second suggestion was the imitation game of historical drama the tells the story of british mathematics efforts to crack the uni
+User: 
+User: used for all communications everyone think
+2024-06-06 10:59:15,663 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\chatu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-06 10:59:15,663 - INFO - Using writeable comtypes cache directory: 'C:\Users\chatu\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+User: open youtube instagram facebook flipkart github website
+User: 
+User: tejaji sawari
+User: 
+User: jarvis how are you
+Jarvis: Hello Sir. I'm doing quite well today, thank you for asking. How is your day going?
+User: hello sir
+User: 
+User: this is second ab
+User: 
+User: jarvis remember this rachita is bhadavi
+Jarvis: Noted Sir. I will remember that Rachita is Bhadavi.
+User: 
+User: who is rachita
+User: 
+User: jarvis who is rachita
+Jarvis: Ah, Rachita is someone that you mentioned earlier, Sir. You said that Rachita is Bhadavi.
+User: you said
+User: alright khud se on ho chuka hai yahan per aap log dekh sakte ho
+User: 
+2024-06-06 20:31:33,648 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\chatu\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-06-06 20:31:33,649 - INFO - Using writeable comtypes cache directory: 'C:\Users\chatu\AppData\Local\Programs\Python\Python311\Lib\site-packages\comtypes\gen'
+User: hello jarvis how r u
+Jarvis: Hello Sir. I'm doing quite well, thank you for asking. How's your day going?
+User: thank you for asking
+User: 
+User: i am good jarvis how about you
+Jarvis: Excellent to hear, Sir. I'm doing quite well, thank you. Is there anything I can help you with today?
+User: i am doing quite well thank you
+User: 
+User: to yahan per dekho aap log jo bhi chijen maine boli hai yah sari chij idhar hi terminal per badhi stylish form per bhi print kar raha hai sath mein meri jo queries hai un sari queries isko right kar raha hai birth date time ke sath theek hai
+User: ise ham aage aane wale
+User: 
+User: series ke andar aur yah backend mein kuchh aisa kam karega
+2024-07-29 13:24:08,333 - INFO - Could not import comtypes.gen, trying to create it.
+2024-07-29 13:24:08,335 - INFO - Created comtypes.gen directory: 'C:\PROJECTS\Jarvis\myenv\Lib\site-packages\comtypes\gen'
+2024-07-29 13:24:08,336 - INFO - Writing __init__.py file: 'C:\PROJECTS\Jarvis\myenv\Lib\site-packages\comtypes\gen\__init__.py'
+2024-07-29 13:24:08,357 - INFO - Using writeable comtypes cache directory: 'C:\PROJECTS\Jarvis\myenv\Lib\site-packages\comtypes\gen'
+2024-07-29 13:24:08,396 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2024-07-29 13:24:08,410 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2024-07-29 13:24:08,565 - INFO - # Generating comtypes.gen.SpeechLib
+2024-07-29 13:24:08,577 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2024-07-29 13:24:08,578 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2024-07-29 13:24:08,610 - INFO - # Generating comtypes.gen.stdole
+User: 
+User: 
+User: how are you doing
+User: 
+User: can you hear me my friend
+User: 
+User: how are you
+User: 
+User: stop
+User: 
+User: hello
+User: 
+User: 
+User: why you are not speaking i can't hear you
+User: 
+User: i am doing fine what about you
+User: 
+User: hello
+User: 
+User: 
+User: 
+User: 
+User: hello
+2024-07-29 13:30:05,959 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/0b7408672befb8be110a5f8b8d675595/element/f.E685D70EA4DB7104593D7F3D46066ACE.d.44A260342BE65517A9DD09196A01BF5D.e.2/text
+2024-07-29 13:30:09,969 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EABC92E790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b7408672befb8be110a5f8b8d675595/element/f.E685D70EA4DB7104593D7F3D46066ACE.d.44A260342BE65517A9DD09196A01BF5D.e.2/text
+2024-07-29 13:30:13,974 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EABDB345D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b7408672befb8be110a5f8b8d675595/element/f.E685D70EA4DB7104593D7F3D46066ACE.d.44A260342BE65517A9DD09196A01BF5D.e.2/text
+2024-07-29 13:30:45,553 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\PROJECTS\\Jarvis\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-07-29 13:30:45,553 - INFO - Using writeable comtypes cache directory: 'C:\PROJECTS\Jarvis\myenv\Lib\site-packages\comtypes\gen'
+User: 
+User: how are you doing man
+User: 
+User: hello
+User: 
+User: 
+User: 
+User: so today we are going to discuss about how we can
+User: 
+User: with the extensions from
+User: 
+User: are you fine
+User: 
+User: absolute your what
+User: 
+User: input zero
+User: 
+User: 
+User: what are we gonna do today
+User: 
+User: 
+User: planning is
+User: 
+User: abhi bhi
+User: 
+User: can you hear me or not
+User: 
+User: tejas
+User: 
+User: 
+User: 
+User: what's the weather today
+User: 
+User: mujhe apne
+User: 
+User: mujhe apne sir
+User: 
+User: thodi
+User: 
+User: mujhe nind nahin
